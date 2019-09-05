@@ -1,4 +1,4 @@
-# useState-async-imeout-handling
+# useState-async-timeout-handling
 Created with CodeSandbox
 
 Make sure to use prev state when updating state asynchronously!
